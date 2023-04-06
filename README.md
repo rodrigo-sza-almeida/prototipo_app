@@ -1,2 +1,2 @@
 # prototipo_app
-portfólio de protótipo de app desenvolvidos
+Link de  protótipo de app desenvovido em Low-Code.
